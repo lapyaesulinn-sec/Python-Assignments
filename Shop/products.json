@@ -3,6 +3,12 @@
         "id": 1773,
         "name": "orange",
         "price": "1500",
-        "stock": "20"
+        "stock": 25
+    },
+    {
+        "id": 9002,
+        "name": "Apple",
+        "price": "1500",
+        "stock": 25
     }
 ]
